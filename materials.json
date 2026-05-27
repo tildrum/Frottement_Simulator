@@ -1,0 +1,47 @@
+{
+    "Ski-Neige": {
+    "static": 0.14,
+    "kinetic": 0.05,
+    "color_block": [255, 0, 0],
+    "color_surface": [245, 245, 255],
+    "shape": "sled",
+    "type_block": "Luge",
+    "type_surface": "Piste de Ski"
+  },
+  "caoutchouc-Glace": {
+    "static": 0.10,
+    "kinetic": 0.05,
+    "color_block": [50, 50, 50],
+    "color_surface": [224, 255, 255],
+    "shape": "flat",
+    "type_block": "Palet",
+    "type_surface": "Patinoire"
+  },
+  "Cuir-Bois": {
+    "static": 0.61,
+    "kinetic": 0.52,
+    "color_block": [139, 69, 19],
+    "color_surface": [222, 184, 135],
+    "shape": "rect",
+    "type_block": "Valise",
+    "type_surface": "Parquet"
+  },
+  "Bois-Bois": {
+    "static": 0.58,
+    "kinetic": 0.40,
+    "color_block": [139, 69, 19],
+    "color_surface": [210, 180, 140],
+    "shape": "wardrobe",
+    "type_block": "Armoire",
+    "type_surface": "Plancher"
+  },
+  "Velcro-Velcro": {
+    "static": 6.0,
+    "kinetic": 5.9,
+    "color_block": [50, 50, 50],
+    "color_surface": [70, 70, 70],
+    "shape": "rect",
+    "type_block": "Bloc Velcro",
+    "type_surface": "Tapis Velcro"
+  }
+}
